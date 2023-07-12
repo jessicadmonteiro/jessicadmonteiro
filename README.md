@@ -1,4 +1,4 @@
-Oi, sou a Jéssica Dayane, estudante de programação! 👋
+Oi, sou a Jéssica Dayane, Desenvolvedora Front End! 👋
 
 <picture>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicadmonteiro&show_icons=true&theme=monokai"/>
